@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Agarwal</h1>
-<h3 align="center">Full-stack developer with XYZ years of experience in both frontend and backend technologies.</h3>
+<h3 align="center">Full-stack developer with 6 months of experience in both frontend and backend technologies.</h3>
 
 - 🔭 I’m currently working on **Shopify**
 
