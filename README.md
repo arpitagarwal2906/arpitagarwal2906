@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Agarwal</h1>
-<h3 align="center">Full-stack developer with 6 months of experience in both frontend and backend technologies.</h3>
+<h3 align="center">Full-stack developer with 1.5 years of experience in both frontend and backend technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitagarwal2906&label=Profile%20views&color=0e75b6&style=flat" alt="arpitagarwal2906" /> </p>
 
