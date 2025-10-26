@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Agarwal</h1>
-<h3 align="center">Full-stack developer with 1.5 years of experience in both frontend and backend technologies.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitagarwal2906&label=Profile%20views&color=0e75b6&style=flat" alt="arpitagarwal2906" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitagarwal2906" alt="arpitagarwal2906" /></a> </p>
+<h3 align="center">Shopify Developer with around 2 years of experience building scalable, conversion-focused eCommerce solutions. Experienced in developing and maintaining Shopify Plus stores for global apparel brands. Skilled in Liquid, JavaScript, and React.js with a strong focus on performance optimization, SEO, and user experience while delivering effective front-end and back-end solutions.</h3>
 
 - 🔭 I’m currently working on **Shopify**
 
