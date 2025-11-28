@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Agarwal</h1>
-<h3 align="center">Shopify-focused Front-end Developer with around 2 years of experience using Liquid, JavaScript, and React.js.</h3>
+<h3 align="center">Full-Stack Developer proficient in front-end and back-end development, combined with solid Shopify and Liquid-based eCommerce customization experience.</h3>
 
 - 🔭 I’m currently working on **Shopify**
 
