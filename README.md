@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpit Agarwal</h1>
-<h3 align="center">Full-Stack MERN Developer with 2+ years of experience across React, Node.js & modern DevOps workflows.</h3>
+<h3 align="center"></h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React.js & Next.js**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **GenAI**
 
 - 📫 How to reach me **arpag2906@gmail.com**
 
