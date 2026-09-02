@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React.js & Next.js**
 
-- 🌱 I’m currently learning **GenAI**
+- 🌱 I’m currently learning **Gen AI & Agentic AI**
 
 - 📫 How to reach me **arpag2906@gmail.com**
 
